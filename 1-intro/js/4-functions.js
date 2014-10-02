@@ -27,5 +27,11 @@ console.log(Math.round(3.8));
 Aufgaben:
 - Länge eines Textes zählen
 - Typ zurückgeben (typeof())
--
+- setTimeout()
+
+Quellen:
+- http://de.selfhtml.org/javascript/objekte/math.htm
+- http://de.selfhtml.org/javascript/objekte/number.htm
+- http://de.selfhtml.org/javascript/objekte/string.htm
+
 */

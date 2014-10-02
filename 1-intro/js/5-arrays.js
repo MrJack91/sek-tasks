@@ -16,3 +16,21 @@ var i = 0;
 for (i; i < sammlungFussball.length; i++) {
   console.log(sammlungFussball[i]);
 }
+
+
+/*
+Aufgaben:
+- http://de.selfhtml.org/javascript/objekte/string.htm
+- Worte zählen
+- Einfacher Spam Schutz
+- Palindrom Check
+- String oder Zahl umkehren
+- Längstes Wort suchen
+
+- amountTocoins: Geld mit definierbaren Münzen abbilden
+- Password Generator
+- Zahlenzaubertrick
+- (Schildkröte selbst vollständig umsetzten (mit dynamischem weg finden))
+
+
+*/
