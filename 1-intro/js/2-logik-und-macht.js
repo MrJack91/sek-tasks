@@ -37,7 +37,8 @@ if (x > y) {
 
 /*
 Aufgaben:
+- ist Zahl gerade? (Hinweis auf Modulo)
 - if zusammenstellen
 - auch mit Vergleichen
-- 
+-
 */

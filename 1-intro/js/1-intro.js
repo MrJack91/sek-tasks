@@ -47,7 +47,6 @@ Aufgaben:
 - Rechnen
 --- Währung: Euro <-> CHF
 --- Temperatur: Fahreinheit und Celsius
---- ist Zahl gerade? (Hinweis auf Modulo)
 - Texte ausgeben...
 -
 -

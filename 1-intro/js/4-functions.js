@@ -8,6 +8,22 @@ var vogelsprache = papagei('hallo');
 console.log('Papagei sagt: ' + vogelsprache);
 
 
+
+function findeMinimum(x, y) {
+  var min = y;
+  if (x < y) {
+    min = x;
+  }
+  return min;
+}
+findeMinimum(5, 8);
+
+
+var vogelsprache = papagei('hallo');
+console.log('Papagei sagt: ' + vogelsprache);
+
+
+
 // ganz viele "Basics" functions
 
 console.log('Date(): ' + Date());
@@ -23,10 +39,13 @@ console.log('typeof(l): ' + typeof(l));
 console.log(Math.random());
 console.log(Math.round(3.8));
 
+document.write('Hier mal einen anderen Output');
+
 /*
 Aufgaben:
 - Länge eines Textes zählen
 - Typ zurückgeben (typeof())
+- Zahlen check isNaN()
 - setTimeout()
 
 Quellen:
