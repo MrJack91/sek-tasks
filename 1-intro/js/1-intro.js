@@ -11,8 +11,6 @@ Ein mehrzeiliger Kommentar
 // der Erste Befehl -> output in der console
 console.log('Output: Hier ein Hallo aus einem eigenen File');
 
-
-
 /* Variablen */
 // Einführung - Eine Zahl // Keine Sonderzeichen im Name, CamelCase
 var dieZahl = 42;

@@ -26,6 +26,7 @@ Aufgaben:
 - Palindrom Check
 - String oder Zahl umkehren
 - Längstes Wort suchen
+- setTimeout()
 
 - amountTocoins: Geld mit definierbaren Münzen abbilden
 - Password Generator
